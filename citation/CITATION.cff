@@ -1,1 +1,10 @@
+cff-version: 1.2.0
+title: "Resource Maze (RM-OCEAN): An Open Gameplay Dataset for Big Five Personality Inference"
+authors:
+  - family-names: Alwahas
+    given-names: Shaima
+version: 1.0.0
+date-released: 2025-01-01
+license: CC-BY-4.0
+repository-code: https://github.com/YOUR-USERNAME/resource-maze-ocean
 
